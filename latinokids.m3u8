@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1280000
+https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
